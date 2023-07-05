@@ -25,6 +25,7 @@ const styles = StyleSheet.create({
   },
   itemText: {
     maxWidth: '80%',
+    fontWeight: '600'
   },
   circular: {
     width: 12,
